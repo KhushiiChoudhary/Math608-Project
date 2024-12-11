@@ -1,6 +1,6 @@
 # From Pandas to Dask: Big Data Made Simple
 
-![Alt text](DaskProject.jpg)
+![Alt text](https://github.com/KhushiiChoudhary/Math608-Project/blob/main/Dask%20Project.jpg)
 
 This project demonstrates the differences between **Pandas** and **Dask** for handling large-scale data operations, focusing on performance, memory efficiency, and parallelism.
 
