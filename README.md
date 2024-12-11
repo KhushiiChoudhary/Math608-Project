@@ -1,6 +1,6 @@
-# Comparing NumPy with Dask for Large-Scale Data Operations
+# Comparing Pandas with Dask for Large-Scale Data Operations
 
-This project demonstrates the differences between **NumPy** and **Dask** for handling large-scale data operations, focusing on performance, memory efficiency, and parallelism.
+This project demonstrates the differences between **Pandas** and **Dask** for handling large-scale data operations, focusing on performance, memory efficiency, and parallelism.
 
 ## Project Overview
 
