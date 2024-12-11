@@ -37,17 +37,12 @@ This project demonstrates the differences between **NumPy** and **Dask** for han
   - `graphviz` (for visualizing computation graphs)
 
 ### Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
-   ```
-2. Install the required Python packages:
+1. Install the required Python packages:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Install Graphviz (if not already installed):
+2. Install Graphviz (if not already installed):
    ```bash
    # For Linux
    sudo apt-get install graphviz
@@ -59,7 +54,7 @@ This project demonstrates the differences between **NumPy** and **Dask** for han
    choco install graphviz
    ```
 
-4. Install Dask:
+3. Install Dask:
    ```bash
    pip install dask[complete]
    ```
