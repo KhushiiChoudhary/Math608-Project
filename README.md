@@ -1,18 +1,17 @@
-# Comparing Pandas with Dask for Large-Scale Data Operations
+# From Pandas to Dask: Big Data Made Simple
 
 This project demonstrates the differences between **Pandas** and **Dask** for handling large-scale data operations, focusing on performance, memory efficiency, and parallelism.
 
 ## Project Overview
 
 ### Objectives
-- Compare the performance of NumPy and Dask in handling large arrays and dataframes.
+- Compare the performance of Pandas and Dask in handling large dataframes.
 - Illustrate Dask’s ability to work with datasets exceeding memory limits.
 - Explore the use of Dask for parallelized computations, delayed execution, and efficient I/O operations.
 
 ### Key Features
-1. **Large Array Creation**:
-   - Created arrays of varying sizes with NumPy and Dask.
-   - Demonstrated how Dask handles arrays larger than memory by chunking the data.
+1. **Large DataFrame Handling**:
+   - Demonstrated how Dask handles dataframes larger than memory by chunking the data.
 
 2. **Lazy Evaluation with `dask.delayed`**:
    - Built computation graphs for complex tasks without immediate execution.
@@ -90,6 +89,3 @@ This project demonstrates the differences between **Pandas** and **Dask** for ha
 ## Future Work
 - Extend comparisons to include operations like matrix multiplications and Fourier transforms.
 - Integrate Dask with cloud-based storage solutions for distributed computing.
-
-
-
